@@ -72,4 +72,4 @@ The `identity.hasAuthority` property can be used to check if the local player ha
 
 ### Server Side
 
-The `identity.connectionToClient` property can be check to see which client has authority over an object. If it is null then the server has authority.
+The `identity.connectionToClient` property can be checked to see which client has authority over an object. If it is null then the server has authority.
